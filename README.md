@@ -9,8 +9,6 @@ This project demonstrates a production-ready DevOps workflow using:
 - **GitHub Actions** for CI/CD automation
 - **Infrastructure as Code** principles
 
-Perfect for showcasing DevOps skills required for junior positions in the Israeli tech market.
-
 ## Project Structure
 ```
 AI-DevOps-Assistant/
